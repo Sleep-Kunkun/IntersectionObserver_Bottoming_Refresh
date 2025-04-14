@@ -1,8 +1,20 @@
 
 node 20.18.0
 
-使用IntersectionObserver API进行页面下滑滚动
-功能：
-滚动刷新
-节流
-无请求内容对IntersectionObserver进行销毁
+1.使用IntersectionObserver API
+
+2.触底功能实现
+
+3.数据加载完毕处理
+
+4.双重节流判断（加载状态、触发时间）
+
+5.调试日志编写
+
+6.请求重试机制
+
+7.随机抖动请求
+
+8.内存优化
+
+9.用户体验优化
